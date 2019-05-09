@@ -1,7 +1,7 @@
 ## Developer Edit
 
 
-## Edit on GitHub
+## Edit on GitHub.com
 
 
 ## Edit on Local
